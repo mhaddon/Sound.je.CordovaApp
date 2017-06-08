@@ -1,0 +1,7 @@
+.idea
+node_modules
+.DS_Store
+www/images
+res/icon
+res/screen
+platforms
